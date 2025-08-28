@@ -1,8 +1,8 @@
 # Venosa-Studio
-📌 Venosa Studio is a based on Türkiye about new technology development. 
+📌 We offer creative solutions that push boundaries and shape the future in the digital world.
 
 # What we do ? 
-✨ We are development about packages, websites and other our products.
+✨ We are development about packages, websites, mobile apps and other our products.
 
 # Can i use your packages ? 
 💖 Yes, you can use it. 
