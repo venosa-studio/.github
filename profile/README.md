@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/venosa-studio/.github/blob/main/assets/VS%20-%20BANNER.png?raw=true" alt="Venosa Studio" width="100%" />
+<img src="https://github.com/venosa-studio/.github/blob/main/assets/banner.png?raw=true" alt="Venosa Studio" width="100%" />
 
 **We craft creative digital solutions that push boundaries and shape the future.**
 
