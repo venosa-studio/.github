@@ -1,16 +1,56 @@
-# Venosa-Studio
-📌 We offer creative solutions that push boundaries and shape the future in the digital world.
+<div align="center">
 
-# What we do ? 
-✨ We are development about packages, websites, mobile apps and other our products.
+# Venosa Studio
 
-# Can i use your packages ? 
-💖 Yes, you can use it. 
+**We craft creative digital solutions that push boundaries and shape the future.**
 
-# How can i join your organization ?
-✨ Please contact us and send us cv.
+<a href="https://venosastudio.com"><img src="https://img.shields.io/badge/Website-venosastudio.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:info@venosastudio.com"><img src="https://img.shields.io/badge/Contact-info@venosastudio.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-# Contact
+![GitHub Org followers](https://img.shields.io/github/followers/Venosa-Studio?style=flat-square&label=Followers&color=6C63FF)
+![Profile views](https://komarev.com/ghpvc/?username=Venosa-Studio&style=flat-square&color=6C63FF)
+
+</div>
+
+---
+
+## What We Do ?
+
+We develop and design across the full digital spectrum:
+
+- **Packages & Libraries** — reusable, open-source tools for developers
+- **Websites** — fast, modern, responsive web experiences
+- **Mobile Apps** — cross-platform apps for iOS & Android
+- **Custom Software** — tailored solutions for unique business needs
+
+## Tech We Love
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+## Can I Use Your Packages?
+
+💖 Yes! All of our packages are free to use. Explore our repositories below and feel free to contribute.
+
+## How Can I Join Us?
+
+We now accept all job applications through our website. Visit **[venosastudio.com](https://venosastudio.com)** to see open positions and apply online.
+
+## Contact
+
+<div align="center">
+
 <a style="text-decoration: none" target="_blank" href="mailto:info@venosastudio.com"><img src="https://github.com/Venosa-Studio/Venosa-Studio/blob/main/assets/mail.png" width="64px"/></a>
+&nbsp;&nbsp;
 <a style="text-decoration: none" target="_blank" href="https://venosastudio.com"><img src="https://github.com/Venosa-Studio/Venosa-Studio/blob/main/assets/website.png" width="64px"/></a>
+&nbsp;&nbsp;
 <a style="text-decoration: none" target="_blank" href="https://discord.gg/MFdzWrXcHG"><img src="https://github.com/Venosa-Studio/Venosa-Studio/blob/main/assets/discord.png" width="64px"/></a>
+
+<br><br>
+
+<sub>© Venosa Studio — Shaping the future in the digital world.</sub>
+
+</div>
